@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @stharlan
 - 👀 I’m interested in writing code and learning as many languages as I can.
-- 🌱 I’m currently learning rust, opengl and dotnet core.
-- 💞️ I’m looking to collaborate on 3d engines.
+- 🌱 I’m currently 6502 assembly and Python.
 - 📫 How to reach me: stuart.harlan@outlook.com
 
 <!---
